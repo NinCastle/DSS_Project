@@ -1,15 +1,15 @@
-# Steam 플렛폼 구매율 예측<br>
-<br>
-<img src = 'http://images.vg247.com/current//2011/04/steam1.jpg'><br>
-<br>
-# 프로젝트 개요<br>
-<br>
-## **목표**<br>
-스팀 플렛폼(게임)에 관련된 데이터로 <span style="color:red">구매율(어플리케이션 소유자 수)</span>를 예측하는 모델을 생성<br>
-<br>
+# Steam 플렛폼 구매율 예측
 
-## **변수정의**<br>
-<br>
+<img src = 'http://images.vg247.com/current//2011/04/steam1.jpg'>
+
+# 프로젝트 개요
+
+## **목표**
+스팀 플렛폼(게임)에 관련된 데이터로 <span style="color:red">구매율(어플리케이션 소유자 수)</span>를 예측하는 모델을 생성<br>
+
+
+## **변수정의**
+
   * appid - 게임 고유 ID
   * name - 게임 이름
   * developer - 개발자(여러 개발자 일 경우 쉼표로 구분)
